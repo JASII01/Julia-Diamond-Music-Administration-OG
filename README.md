@@ -1,2 +1,2 @@
 # MAS
-Music Administrative Services new site repository
+Music Administrative Service's new site repository
