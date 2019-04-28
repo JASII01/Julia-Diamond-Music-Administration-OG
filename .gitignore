@@ -1,0 +1,8 @@
+# Look here for examples of gitignore file content
+#  https://github.com/github/gitignore
+*.[oa]
+*~
+!lib.a
+/TODO
+build/
+doc/*.txt
